@@ -1,0 +1,21 @@
+.table-1{
+    text-decoration: underline;
+  text-align: center;
+}
+h4{
+    text-decoration: underline;
+}
+td, th{
+    border: 1px solid gray;
+}
+ .myclass1{
+    width: 190px;
+    height: 200px;
+}
+.my-class{
+    width: 190px;
+    height: 200px;
+}
+table{
+    border-collapse: collapse;
+}
